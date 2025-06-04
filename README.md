@@ -1,6 +1,6 @@
-# Project #1. Radiation-Therapy:
-# Mapping Out Optimal Intensities to Target Cancerous Brain Lesions
+# Project #1: Cellular Automata
+# Manipulating Infectious Dynamics of Cancer using Modular Programming
 
-● Simulated radiotherapy treatment using MATLAB to graphically delineate the malignant region from normal tissue  
-● Constructed the objective function by computing the total ionization exposure for healthy cells and the spinal cord  
-● Imposed constraints to ensure a lethal dosage of above 7 units is delivered by perpendicular beamlets to the tumor  
+● Simulated dynamic interplay of cancerous lesion and immune response in Java based on the 'Game of Life' Theory                 
+● Propagated 4 different cell types; cancer cells, tissue cells, white blood cells and dead cells, by class inheritance           
+● Executed the model stochastically, via polymorphism and cellular automata, to gain insights for cancer diagnostics       
