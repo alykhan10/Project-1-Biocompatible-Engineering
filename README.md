@@ -1,4 +1,4 @@
-# Project #1: Biocompatible Engineering
+# Project #1: Cardiovascular Health
 # Prototyping an Ultrasonic Sensor to Detect for Myocardial Infarctions
 
 ● Conducted machine analysis of electrocardiogram waveforms to assess inconsistencies in cardiopulmonary activity                  
